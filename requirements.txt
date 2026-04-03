@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlmodel
+sqlalchemy
+psycopg2-binary
+alembic
+redis
+pytest
+httpx
