@@ -159,6 +159,7 @@ Alembic is used for:
 - Local PostgreSQL installation is used
 - Single environment setup
 - Initial schema only
+-
 
 ---
 
@@ -172,3 +173,9 @@ Alembic is used for:
 - CI/CD Pipeline
 
 ---
+
+
+<img width="1600" height="811" alt="Screenshot 2026-04-04 005718" src="https://github.com/user-attachments/assets/cbdb5924-25d3-4a72-bbfe-f7cae466b940" />
+
+
+
